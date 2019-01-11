@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d506776-08e6-49c9-8ada-8f72260e6226" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,6 +66,7 @@
           <entry key="html" value="144" />
           <entry key="java" value="238" />
           <entry key="properties" value="2" />
+          <entry key="txt" value="12" />
           <entry key="xml" value="114" />
         </counts>
       </usages-collector>
@@ -72,6 +74,7 @@
         <counts>
           <entry key="HTML" value="144" />
           <entry key="JAVA" value="238" />
+          <entry key="PLAIN_TEXT" value="12" />
           <entry key="Properties" value="2" />
           <entry key="XML" value="114" />
         </counts>
@@ -216,8 +219,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547213928058" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myfine" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547214647650" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/idea狗狗和" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -269,17 +272,25 @@
       <workItem from="1547039776417" duration="5733000" />
       <workItem from="1547079895269" duration="1175000" />
       <workItem from="1547185796284" duration="1506000" />
-      <workItem from="1547211364773" duration="2528000" />
+      <workItem from="1547211364773" duration="3450000" />
     </task>
+    <task id="LOCAL-00001" summary="tijiao">
+      <created>1547213974600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547213974600</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10942000" />
+    <option name="totallyTimeSpent" value="11864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="585" y="0" width="833" height="735" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.70604396" visible="true" weight="0.43725744" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.70604396" visible="true" weight="0.43725744" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.29395604" side_tool="true" weight="0.41758242" />
@@ -296,8 +307,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.5652174" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49935317" visible="true" weight="0.5652174" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006468" side_tool="true" visible="true" weight="0.5652174" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Problems" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
@@ -323,6 +334,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tijiao" />
+    <option name="LAST_COMMIT_MESSAGE" value="tijiao" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/Text.kt" />
